@@ -1,2 +1,14 @@
+/*index注释*/
 .tit{display:inline-block;}
 .pro_1{display:inline-block;}
+
+/*扇形效果样式*/
+body{margin:0;background-color:#666;}
+#box{
+    width:1200px;
+    height:700px;
+    background:url("../images/pro_1/gx.png") no-repeat center center;
+    position:relative;
+    margin:100px auto;
+    border:1px solid red;
+}
